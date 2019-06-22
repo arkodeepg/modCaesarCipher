@@ -6,7 +6,7 @@ if u give a key = 1234
 and the the given word is india then 
 
 
-i     n     d     i     a
+     i     n     d     i     a
 +     +     +     +     +
 1     2     3     4     1
 =     =     =     =     =
